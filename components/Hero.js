@@ -91,7 +91,7 @@ export default function Hero({ collectionNames }) {
             <div className="sm:text-center lg:text-left">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
                 <span className="block xl:inline text-secondary-color">
-                  Studio 57
+                  Studio57
                 </span>
                 <span className="block  xl:inline"> Clothing Co.</span>
               </h1>
