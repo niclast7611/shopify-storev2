@@ -31,8 +31,8 @@ export default function ProductPageContent({ product }) {
             {/* product show pages shows images for the selected product */}
             <Swiper
               style={{
-                "--swiper-navigation-color": "primary-color",
-                "--swiper-pagination-color": "primary-color",
+                "--swiper-navigation-color": "white",
+                "--swiper-pagination-color": "white",
               }}
               navigation
               pagination={{ clickable: true }}
